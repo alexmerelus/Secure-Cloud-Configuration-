@@ -1,4 +1,4 @@
-# Secure Cloud Configuration
+# Part 3: Secure Cloud Configuration
 
 ## 🔐 Incident Response Log for Possible Privilege Escalation
 
